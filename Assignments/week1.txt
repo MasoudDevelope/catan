@@ -1,0 +1,35 @@
+Here is the first homework:
+
+
+- Learn git, a tool that lets you keep track of your code and work with others.
+-- You can get it from https://git-scm.com/download/win for Windows.
+-- To learn how to use git, you can play with https://learngitbranching.js.org/ that shows you how to do stuff like create branches, merge, commit, and more.
+
+- Open a GitHub account, a place where you can put your code online and share it with others.
+-- You can sign up for free at https://github.com .
+-- Once you have an account, make a private repository, which is where you can store your code and files.
+-- Let’s call it Catan, since that’s what the project is about.
+-- To make a repository, follow https://docs.github.com/en/get-started/quickstart/create-a-repo
+-- Bonus (Optional): Add ssh keys to make working with Github easier: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+
+
+- Add me as a collaborator, so I can see your private repository and check out the progress.
+-- To do this, go to the settings page of your repository, click on Manage access, and then Invite a friend.
+-- Type my username (aminroosta) and click Add.
+
+- Get Node.js and npm, which are tools that help you run JavaScript code on your computer and get packages that add more functionality to your project.
+-- You can download them from https://nodejs.org/en. Make sure to pick the LTS version, which is more stable.
+
+- Check out the "getting started" page on the Next.js website, which is a React framework that we are going to use for the project.
+-- Next.js makes it easy to make web pages with React. You can find the getting started page here https://nextjs.org/docs/getting-started/installation.
+-- Follow the steps to create a bare-bone project and use git to push it into the repository you created.
+-- To push your code to GitHub, you need to set up a remote origin, add your files, commit your changes, and push them.
+
+Google as you go through the steps:
+
+- What is version control and why is it important?
+- What are the differences between git and GitHub?
+- What are packages and how do they work with npm?
+- What is React and what are its main features?
+- What are the advantages of using Next.js over plain React?
+- How do I use git commands in the command line?
